@@ -1,0 +1,56 @@
+text,font_size,len_chars,is_upper,page_num,predicted
+Application form for grant of LTC advance,11.669999999999959,41,0,1,body
+1.,9.744399999999928,2,0,1,body
+2.,9.744399999999928,2,0,1,body
+3.,9.744399999999928,2,0,1,body
+Name of the Government Servant,9.744399999999928,30,0,1,body
+Designation,9.744399999999928,11,0,1,body
+Date of entering the Central Government,9.744399999999928,39,0,1,body
+Service,9.744399999999928,7,0,1,body
+PAY + SI + NPA,9.744399999999928,14,1,1,body
+4.,9.744399999999928,2,0,1,body
+5. Whether permanent or temporary,9.744399999999928,33,0,1,body
+6.,9.744399999999928,2,0,1,body
+Home Town as recorded in the Service Book,9.744399999999928,41,0,1,body
+Whether wife / husband is employed and if,9.744399999999928,41,0,1,body
+7.,9.744399999999928,2,0,1,body
+8.,9.744399999999928,2,0,1,body
+9.,9.744400000000041,2,0,1,body
+so whether entitled to LTC,9.744399999999928,26,0,1,body
+Whether the concession is to be availed for,9.744399999999928,43,0,1,body
+visiting home town and if so block for which,9.744399999999928,44,0,1,body
+LTC is to be availed.,9.744400000000041,21,0,1,body
+(a) If the concession is to visit anywhere in,9.744400000000041,45,0,1,body
+"India, the place to be visited.",9.744400000000041,31,0,1,body
+(b) Block for which to be availed.,9.744400000000041,34,0,1,body
+Single,9.744400000000041,6,0,1,body
+rail,9.744400000000041,4,0,1,body
+fare/bus,9.744400000000041,8,0,1,body
+fare,9.744400000000041,4,0,1,body
+from,9.744400000000041,4,0,1,body
+the,9.744400000000041,3,0,1,body
+10.,9.744400000000041,3,0,1,body
+headquarters to home town/place of visit by,9.744400000000041,43,0,1,body
+shortest route.,9.744400000000041,15,0,1,body
+Persons in respect of whom LTC is proposed to be availed.,9.744400000000041,57,0,1,body
+Name,9.744400000000041,4,0,1,body
+Age,9.744400000000041,3,0,1,body
+Relationship,9.744400000000041,12,0,1,body
+S.No,9.744400000000041,4,0,1,body
+1.,9.744400000000041,2,0,1,body
+2.,9.744400000000041,2,0,1,body
+3.,9.744400000000041,2,0,1,body
+4.,9.744400000000041,2,0,1,body
+5.,9.744400000000041,2,0,1,body
+6.,9.744400000000041,2,0,1,body
+Amount of advance required.,9.744400000000041,27,0,1,body
+Rs.,9.744400000000041,3,0,1,body
+11.,9.744400000000041,3,0,1,body
+12.,9.744400000000041,3,0,1,body
+I declare that the particulars furnished above are true and correct to the best of my knowledge.,9.744400000000011,96,0,1,body
+I,9.744399999999985,1,1,1,body
+undertake to produce the tickets for the outward journey within ten days of receipt of the advance.,9.744400000000011,99,0,1,body
+In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of,9.744400000000015,109,0,1,body
+"advance, I undertake to refund the entire advance in one lump sum.",9.744399999999997,66,0,1,body
+Date,9.744399999999985,4,0,1,body
+Signature of Government Servant.,9.744399999999985,32,0,1,body
